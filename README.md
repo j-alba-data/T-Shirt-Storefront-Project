@@ -1,6 +1,8 @@
 # T-Shirt Storefront
 
-<img src="./image/shirts.png" width="50%" height="50%">
+<div align="center">
+ <img src="./image/shirts.png" width="50%" height="50%">
+</div>
 
 ## Description
 
