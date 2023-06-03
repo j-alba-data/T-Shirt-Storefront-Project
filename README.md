@@ -1,6 +1,6 @@
 # T-Shirt Storefront
 
-<img src=".image/shirts.png">
+<img src="/.image/shirts.png">
 
 ## Description
 
